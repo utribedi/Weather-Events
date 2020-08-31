@@ -3,6 +3,8 @@ Determining types of Weather Events that cause the most casualties and economic 
 
 This is an analysis of the National Oceanic and Atmospheric Administration’s (NOAA) storm database to find out which types of weather events in the United States cause the most casualties, including injuries and fatalities, and which cause the most economic impact to property and crops.
 
+##Find out the full work here: https://rpubs.com/uttaran_tribedi/rerepeer2
+
 
 
 
